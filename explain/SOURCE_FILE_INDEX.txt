@@ -1,0 +1,19 @@
+Source files in verified archive:
+DEFENSE_GUIDE.md
+README.md
+lib/distributed_print/demo.ex
+lib/distributed_print/printer.ex
+lib/distributed_print/server.ex
+mix.exs
+spec/MESSAGE_LOSS_GUIDE.md
+spec/PrintToken.cfg
+spec/PrintToken.tla
+spec/PrintTokenLoss.cfg
+spec/PrintTokenLoss.tla
+spec/PrintTokenLoss_liveness.cfg
+spec/PrintTokenRetry.cfg
+spec/PrintTokenRetry.tla
+spec/RETRY_MODEL_GUIDE.md
+test/distributed_test.exs
+test/printing_test.exs
+test/test_helper.exs
